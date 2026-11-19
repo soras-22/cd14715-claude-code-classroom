@@ -16,6 +16,7 @@ export const refactoringSuggester: AgentDefinition = {
   tools: [
     'Read',
     'Grep',
-    'Glob'
+    'Glob',
+    'Skill'
   ]
 };

@@ -16,6 +16,7 @@ export const testCoverageAnalyzer: AgentDefinition = {
   tools: [
     'Read',
     'Grep',
-    'Glob'
+    'Glob',
+    'Skill'
   ]
 };
